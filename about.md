@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am John Aidan Resoles
+I am a Masters student form the phils
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+ndsjajsd
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:jaresoles@up.edu.ph)
