@@ -1,11 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about-me/
 ---
 
 I am John Aidan Resoles
-I am a Masters student form the phils
+
+<p I am a Masters student form the phils
 
 ### More Information
 
@@ -13,4 +14,4 @@ ndsjajsd
 
 ### Contact me
 
-[email@domain.com](mailto:jaresoles@up.edu.ph)
+[jaresoles@up.edu.ph](mailto:jaresoles@up.edu.ph)
