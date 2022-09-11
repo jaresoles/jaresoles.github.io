@@ -6,14 +6,8 @@ permalink: /about/
 ### Call me Aidan.
 
   <img src="https://github.com/jaresoles/jaresoles.github.io/blob/master/images/profile.JPG"
-    class="myimg" />
-    
-.myimg{
-  width:300px;
-  height:300px;
-  object-fit:cover;
-  border-radius:50%;
-}
+   width="200" 
+   height="200" />
 
 <p align="justify">
  
@@ -35,13 +29,13 @@ I like to sing, play instruments and games, and go on long walks.
 
 ### Education and Research Experience
 
-<p> <strong> 2015 to 2019: <strong> </p> University of the Philippines Visayas, BS (Biology)
+<span class="bolded"> 2015 to 2019:</span> University of the Philippines Visayas, BS (Biology)
  
-<p> <strong> 2019 to 2021: <strong> </p> Molecular Genetics Unit, National Institutes of Health, University of the Philippines Manila, Researcher
+<span class="bolded"> 2019 to 2021:</span> Molecular Genetics Unit, National Institutes of Health, University of the Philippines Manila, Researcher
  
-<p> <strong> 2021 to Present: <strong> </p> Protein Biochemistry & Biotechnology Laboratory, Marine Science Institute, University of the Philippines Diliman, Researcher
+<span class="bolded"> 2021 to Present:</span> Protein Biochemistry & Biotechnology Laboratory, Marine Science Institute, University of the Philippines Diliman, Researcher
  
-<p> <strong> 2021 to Present: <strong> </p> MS in Marine Science (Marine Biotechnology)
+<span class="bolded"> 2021 to Present:</span> MS in Marine Science (Marine Biotechnology)
  
 ### Contact me
 
