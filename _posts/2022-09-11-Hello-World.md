@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog's up and running!
+title: Up and running.
 ---
 Motivation for this blog. 
 
