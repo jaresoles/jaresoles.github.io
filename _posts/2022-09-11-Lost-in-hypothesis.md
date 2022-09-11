@@ -15,7 +15,7 @@ I need to start working on this manuscript. I have already gathered sufficient d
  
 <p align="justify">
  
-I put up this snip of a PAGE gel simply because I have an unhealthy skepticism of anything electrophoresis-related technique. I know - is there medication for this kind of paranoia?
+I put up this snip of a PAGE gel simply because I have an unhealthy skepticism of anything electrophoresis-related technique. Just as I have in nearly all the data I generated. I know - is there medication for this kind of paranoia?
 
 </p>
 
