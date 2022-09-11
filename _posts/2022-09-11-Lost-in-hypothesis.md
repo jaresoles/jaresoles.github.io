@@ -3,7 +3,7 @@ layout: post
 title: Lost in hypotheses!
 ---
 
-I am stuck in theorizing. 
+I am stuck theorizing. 
 
 <p align="justify">
   
