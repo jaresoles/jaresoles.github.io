@@ -9,7 +9,7 @@ name: Aidan Resoles
 description: On data obtained in vivo
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![_config.yml]({{ site.baseurl }}/images/profile.JPG)
+avatar: /images/profile.JPG
 
 #
 # Flags below are optional
