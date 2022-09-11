@@ -5,8 +5,9 @@ permalink: /about-me/
 ---
 
 I am John Aidan Resoles
+I am a Masters student form the phils
 
-<p I am a Masters student form the phils
+![_config.yml]({{ site.baseurl }}/images/profile.JPG)
 
 ### More Information
 
