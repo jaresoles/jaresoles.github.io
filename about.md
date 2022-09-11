@@ -9,13 +9,13 @@ permalink: /about/
 
 <p align="justify">
  
-I originally planned in making this into an academic-y-ish blog, but have changed direction while I was writing my first text (see: Tautological). But for a short introduction, I am a young scientist who spends most of his time tending to bacteria from guts of one terrestrial organism (human, E. coli) and one marine organism (shipworm, T. turnerae). I am interested with the workings of the shipworm symbiont which is a known degrader of wood. As with E. coli,  I am the parasite in this relationship, as I only overwork them to produce proteins that I want to play with.
+I originally planned in making this into an academic-y-ish blog, but have changed direction while I was writing my first text (see: Up and running.). But for a short introduction, I am a young scientist who spends most of his time tending to bacteria from guts of one terrestrial organism (human, E. coli) and one marine organism (shipworm, T. turnerae). I am interested with the workings of the shipworm symbiont which is a known degrader of wood. As with E. coli,  I am the parasite in this relationship, as I only overwork them to produce proteins that I want to play with.
 
 </p>
  
 <p align="justify">
  
-I am a graduate student in marine science, under the marine biotechnology track. I reside in an archipelagic country and I think that already makes the case for why I would pursue marine science- but specifically why biotechnology track is simply because I am interested at the fine-grained mechanics of all life forms.
+I am a graduate student in marine science, under the marine biotechnology track. I reside in an archipelagic country and I think that already makes the case for why I would pursue marine science- but specifically why biotechnology track is simply because I am interested at the fine-grained mechanics of all life forms. I am currently doing my thesis on the regenerative capacity of sea cucumbers - our earliest metazoan ancestors.
 
 </p>
 
