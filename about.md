@@ -15,7 +15,7 @@ I originally planned in making this into an academic-y-ish blog, but have change
  
 <p align="justify">
  
-I am a graduate student in marine science, under the marine biotechnology track. I reside in an archipelagic country and I think that already makes the case for why I would pursue marine science- but specifically why biotechnology track is simply because I am interested in understanding physiological complexity at the biomolecular scale. I am currently doing my thesis on the regenerative capacity of sea cucumbers - our earliest metazoan ancestors.
+I am a graduate student in marine science, under the marine biotechnology track. I reside in an archipelagic country that is a center og global diversity and I think that already makes the case for why I would pursue marine science- but specifically why biotechnology track is simply because I am interested in understanding physiological complexity at the biomolecular scale. I am currently doing my thesis on the regenerative capacity of sea cucumbers - our earliest metazoan ancestors.
 
 </p>
 
