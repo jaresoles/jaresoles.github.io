@@ -9,13 +9,12 @@ permalink: /about/
 
 <p align="justify">
  
-I originally planned in making this into an academic-y-ish blog, but have changed direction while I was writing my first text (see: Up and running.). For a short introduction, I am a young scientist who spends most of his time tending to bacteria from guts of one terrestrial organism (human, E. coli) and one marine organism (shipworm, T. turnerae). I am interested with the workings of the shipworm symbiont which enabled a unique ecological niche for the shipworms. As with E. coli,  I am the parasite in this relationship, as I only overwork them to produce proteins that I want to play with.
-
+I originally planned in making this into an academic-y-ish blog, but have changed direction while I was writing my first text (see: Up and running.). For a short introduction, I am a graduate student who spends too much time tending to bacteria from the GI tract of terrestrial organisms (like humans, E. coli) and a marine invertebrate (shipworm, T. turnerae). I also play with Mass Spec and proteins A LOT. 
 </p>
  
 <p align="justify">
  
-I am a graduate student in marine science, under the marine biotechnology track. I reside in an archipelagic country that is at the heart of global diversity and I think that already makes the case for why I would pursue marine science- but specifically why biotechnology track is simply because I am interested in understanding physiological complexity at the biomolecular scale. I am currently doing my thesis on the regenerative capacity of sea cucumbers - our earliest metazoan ancestors.
+I am taking up my masters in marine science, under the marine biotechnology track. I reside in an archipelagic country that is at the heart (?) of global diversity and I think that already makes the case for why I would pursue marine science- but specifically why biotechnology track is simply because I am interested in understanding physiological complexity at the biomolecular scale. I am doing my thesis on the profiling and (functional characterization of some) neuropeptides of sea cucumbers - our earliest deuterostomian ancestors.
 
 </p>
 
