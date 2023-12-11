@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Call me Aidan.
 
-  ![_config.yml]({{ site.baseurl }}/images/profile.JPG){: height="200px" width="auto"} .
+  ![_config.yml]({{ site.baseurl }}/images/happi.jpg){: height="200px" width="auto"} .
 
 <p align="justify">
  
