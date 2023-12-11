@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-### Call me Aidan.
+### Call me Aidan (not Ishmael - I would never hunt whales!).
 
   ![_config.yml]({{ site.baseurl }}/images/happi.jpg){: height="200px" width="auto"} .
 
