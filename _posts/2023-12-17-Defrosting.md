@@ -8,6 +8,8 @@ title: An update!
 Let me address the elephant in the room, which, despite its humungous size, is very unlikely to get cancer.
 </p>
 <p align="justify">
+
+  
 I cannot believe that it took me a year before I finally made a new post. I have been holding my head too low, and I sincerely have very little recollection of many improtant things that have changed and happened right before me. And one cannot chronicle what they do not see and live, or think deeply about—at least in my case, as I find writing to be an all-consuming activity that depletes even the littlest amount of patience and sociability that I have. While the world is far from not being such a sad sight, Im lucky to have a POV that's slowly and carefully recalibrating to be a little less grim (which honestly seemed beyond my control), helping me to write again.  I'm at a point in life where all pens call to be picked up, and get held, ukulele strings invite to be strummed, then create a melody, and fun just simply deserves to be had, and lived!
 </p>
 <p align="justify">
