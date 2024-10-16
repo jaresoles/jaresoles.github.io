@@ -26,17 +26,17 @@ I like to sing, write, make comics with ugly illustrations, play instruments and
 <p align="justify">
 
 </p>
-Student Research Assistant in the Ocean Biology Lab
+Ocean Biology Lab, University of the Philippines Visayas,  <em> Student Research Assistant  </em> </p>
 
-Student Field Research Assistant in the Beach Forest and Mangrove Ecology Lab
+Beach Forest and Mangrove Ecology Lab, University of the Philippines Visayas,  <em> Student Field Research Assistant  </em> </p>
 
-University of the Philippines Visayas, Bachelor of Science (Biology)
+University of the Philippines Visayas,  <em> Bachelor of Science (Biology) </em> </p>
 
 <span class="bolded"><strong>2019 to 2021:</strong></span>
 
 <p align="justify">
 
-Molecular Genetics Unit, National Institutes of Health, University of the Philippines Manila, Researcher
+Molecular Genetics Unit, National Institutes of Health, University of the Philippines Manila,  <em> Researcher </em> </p>
 
 </p>
 
@@ -44,7 +44,7 @@ Molecular Genetics Unit, National Institutes of Health, University of the Philip
 
 <p align="justify">
 
-University of the Philippines Diliman, Marine Science Institute, Master of Science in Marine Science (Marine Biotechnology)
+University of the Philippines Diliman, Marine Science Institute,  <em> Master of Science in Marine Science (Marine Biotechnology) </em> </p>
 
 </p>
    
@@ -52,7 +52,7 @@ University of the Philippines Diliman, Marine Science Institute, Master of Scien
 
 <p align="justify">
 
-Protein Biochemistry & Biotechnology Laboratory, Marine Science Institute, University of the Philippines Diliman, Researcher
+Protein Biochemistry & Biotechnology Laboratory, Marine Science Institute, University of the Philippines Diliman,  <em> Researcher </em> </p>
 
 </p>
 
@@ -60,7 +60,7 @@ Protein Biochemistry & Biotechnology Laboratory, Marine Science Institute, Unive
 
 <p align="justify">
 
-Instrumentation Physics Laboratory, National Institute of Physics, University of the Philippines Diliman, Researcher
+Instrumentation Physics Laboratory, National Institute of Physics, University of the Philippines Diliman,  <em> Researcher </em> </p>
 
 
 </p>
