@@ -25,8 +25,16 @@ I like to sing, write, make comics with ugly illustrations, play instruments and
 
 <p align="justify">
 
+</p>
+
 Student Research Assistant in the Ocean Biology Lab
+
+</p>
+
 Student Field Research Assistant in the Beach Forest and Mangrove Ecology Lab
+
+</p>
+
 University of the Philippines Visayas, Bachelor of Science (Biology)
 
 </p>
