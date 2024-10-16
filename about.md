@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Call me Aidan (not Ishmael - I would never hunt whales).
 
-  ![_config.yml]({{ site.baseurl }}/images/happi.jpg){: height="200px" width="auto" align="center"} .
+  ![_config.yml]({{ site.baseurl }}/images/happi.jpg){: height="200px" width="auto" align="center" valign="center"} .
 
 <p align="justify">
  
