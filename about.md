@@ -25,11 +25,13 @@ I like to sing, write, make comics with ugly illustrations, play instruments and
 
 <p align="justify">
 
+Student Research Assistant in the Ocean Biology Lab
+Student Field Research Assistant in the Beach Forest and Mangrove Ecology Lab
 University of the Philippines Visayas, Bachelor of Science (Biology)
 
 </p>
 
-<span class="bolded">2019 to 2021:</span>
+<span class="bolded"><strong>2019 to 2021:</strong></span>
 
 <p align="justify">
 
@@ -37,7 +39,7 @@ Molecular Genetics Unit, National Institutes of Health, University of the Philip
 
 </p>
 
-<span class="bolded">2021 to 2024:</span> 
+<span class="bolded"><strong>2021 to 2024:</strong></span>
 
 <p align="justify">
 
@@ -45,11 +47,18 @@ University of the Philippines Diliman, Marine Science Institute, Master of Scien
 
 </p>
    
-<span class="bolded">2021 to Present:</span> 
+<span class="bolded"><strong>2021 to Present:</strong></span>
 
 <p align="justify">
 
 Protein Biochemistry & Biotechnology Laboratory, Marine Science Institute, University of the Philippines Diliman, Researcher
+
+<span class="bolded"><strong>2024 to Present:</strong></span>
+
+<p align="justify">
+
+Instrumentation Physics Laboratory, National Institute of Physics, University of the Philippines Diliman, Researcher
+
 
 </p>
  
