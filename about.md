@@ -53,6 +53,8 @@ University of the Philippines Diliman, Marine Science Institute, Master of Scien
 
 Protein Biochemistry & Biotechnology Laboratory, Marine Science Institute, University of the Philippines Diliman, Researcher
 
+</p>
+
 <span class="bolded"><strong>2024 to Present:</strong></span>
 
 <p align="justify">
