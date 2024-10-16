@@ -21,30 +21,37 @@ I like to sing, write, make comics with ugly illustrations, play instruments and
 
 ### Education and Research Experience
   
-<span class="bolded">2015 to 2019:</span>
+<span class="bolded">2015 to 2019:<span>
 
 <p align="justify">
 
 University of the Philippines Visayas, Bachelor of Science (Biology)
-  
+
+</p>
+
 <span class="bolded">2019 to 2021:</span>
 
 <p align="justify">
 
 Molecular Genetics Unit, National Institutes of Health, University of the Philippines Manila, Researcher
 
+</p>
 
 <span class="bolded">2021 to 2024:</span> 
 
 <p align="justify">
 
 University of the Philippines Diliman, Marine Science Institute, Master of Science in Marine Science (Marine Biotechnology)
+
+</p>
    
 <span class="bolded">2021 to Present:</span> 
 
 <p align="justify">
 
 Protein Biochemistry & Biotechnology Laboratory, Marine Science Institute, University of the Philippines Diliman, Researcher
+
+</p>
  
 ### Contact me
 
