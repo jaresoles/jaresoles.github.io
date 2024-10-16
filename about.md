@@ -21,7 +21,7 @@ I like to sing, write, make comics with ugly illustrations, play instruments and
 
 ### Education and Research Experience
   
-<span class="bolded">2015 to 2019:<span>
+<span class="bolded"><strong>2015 to 2019:</strong></span>
 
 <p align="justify">
 
