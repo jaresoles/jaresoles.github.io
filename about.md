@@ -32,8 +32,6 @@ Student Field Research Assistant in the Beach Forest and Mangrove Ecology Lab
 
 University of the Philippines Visayas, Bachelor of Science (Biology)
 
-</p>
-
 <span class="bolded"><strong>2019 to 2021:</strong></span>
 
 <p align="justify">
