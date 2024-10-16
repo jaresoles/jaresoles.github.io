@@ -18,6 +18,9 @@ $white: #fff;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+$opensans: 'Open Sans', sans-serif;
+
 
 // Mobile breakpoints
 @mixin mobile {
