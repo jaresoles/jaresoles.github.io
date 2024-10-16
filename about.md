@@ -9,25 +9,45 @@ permalink: /about/
 
 <p align="justify">
  
-I originally planned in making this into an academic-y-ish blog, but have changed direction while I was writing my first text (see: Up and running.). For a short introduction, I recently graduated with a master's in marine science, under the marine biotechnology track. I reside in an archipelagic country that is at the heart of global diversity and I think that sufficiently makes the case for why I would pursue marine science. But specifically why biotechnology track is simply because I am interested in understanding physiological complexity at the biomolecular scale. I did my master's thesis on the neuropeptides of sea cucumbers - our earliest deuterostomian ancestors. Mass spectrometry (proteomics and a bit of metabolomics), DNA biochemistry, and genomics keep me busy. And also, I love neurons so much.
+See: Up and running for my motivations for creating this website. A short intro: I recently graduated with a master's in marine science, under the marine biotechnology track. I reside in an archipelagic country (Republic of the Philippines) that is at the heart of global marine biodiversity and I think that sufficiently makes the case for why I would pursue marine science. But specifically why biotechnology track is simply because I am interested in understanding physiological complexity at the biomolecular scale. I did my master's thesis on the neuropeptides of sea cucumbers - our earliest deuterostomian ancestors, and my attempt at understanding the neural basis of their many biological quirks. Mass spectrometry (proteomics and a bit of metabolomics), DNA biosensors, and genomics keep me busy. And also, I love neurons and evolutionary theory so much.
 
 </p>
 
 <p align="justify">
  
-I like to sing, write, make comics with ugly illustrations, play instruments and games, and go on really long walks. Did I mention I like biomolecules and neurons and living organisms (other than humans and model organisms)? 
+I like to sing, write, make comics with ugly illustrations, play instruments and games, and go on really long walks. Did I mention I love biomolecules and neurons and living organisms? 
  
 </p>
 
 ### Education and Research Experience
 
-<span class="text"><span class="year">2015 to 2019:</span> University of the Philippines Visayas, BS (Biology)</span>
+<p align="justify">
+  
+<span class="bolded">2015 to 2019:</span>
 
-<span class="text"><span class="year">2019 to 2021:</span> Molecular Genetics Unit, National Institutes of Health, University of the Philippines Manila, Researcher</span>
+</span> University of the Philippines Visayas, Bachelor of Science (Biology)</span>
+
+<p align="justify">
+  
+<span class="bolded">2019 to 2021:</span>
+
+</span> Molecular Genetics Unit, National Institutes of Health, University of the Philippines Manila, Researcher</span>
+
+ <p align="justify">
+   
+<span class="bolded">2021 to Present:</span> 
+
+</span> Protein Biochemistry & Biotechnology Laboratory, Marine Science Institute, University of the Philippines Diliman, Researcher
+
+<p align="justify">
  
-<span class="bolded">2021 to Present:</span> Protein Biochemistry & Biotechnology Laboratory, Marine Science Institute, University of the Philippines Diliman, Researcher
- 
-<span class="bolded">2021 to 2024:</span> University of the Philippines Diliman, MS in Marine Science (Marine Biotechnology)
+<span class="bolded">2021 to 2024:</span> 
+
+<p align="justify">
+
+</span> University of the Philippines Diliman, Marine Science Institute, Master of Science in Marine Science (Marine Biotechnology)
+
+<p align="justify">
  
 ### Contact me
 
