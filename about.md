@@ -9,13 +9,13 @@ permalink: /about/
 
 <p align="justify">
  
-See: Up and running for my motivations for creating this website. A short intro: I recently graduated with a master's in marine science, under the marine biotechnology track. I reside in an archipelagic country (Republic of the Philippines) that is at the heart of global marine biodiversity and I think that sufficiently makes the case for why I would pursue marine science. But specifically why biotechnology track is simply because I am interested in understanding physiological complexity at the biomolecular scale. I did my master's thesis on the neuropeptides of sea cucumbers - our earliest deuterostomian ancestors, and my attempt at understanding the neural basis of their many biological quirks. Mass spectrometry (proteomics and a bit of metabolomics), DNA biosensors, and genomics keep me busy. And also, I love neurons and evolutionary theory so much.
+See: Up and running for my motivations for creating this website. A short intro: I recently graduated with a master's in marine science, under the marine biotechnology track. I reside in an archipelagic country (Republic of the Philippines) that is at the heart of global marine biodiversity and I think that sufficiently makes the case for why I would pursue marine science. But specifically why biotechnology track is simply because I am interested in understanding physiological complexity at the biomolecular scale. I did my master's thesis on the neuropeptides of sea cucumbers - our earliest deuterostomian ancestors, and my attempt at understanding the neural basis of their many biological quirks. Mass spectrometry (proteomics and a bit of metabolomics), DNA biosensors, and genomics keep me busy. And also, I love microbes, unicellular eukaryotes, neurons and evolutionary theory so much.
 
 </p>
 
 <p align="justify">
  
-I like to sing, write, make comics with ugly illustrations, play instruments and games, and go on really long walks. Did I mention I love biomolecules and neurons and living organisms? 
+I like to sing, write, make comics with ugly illustrations, play instruments and games, and go on really long walks. Did I mention I love biomolecules, microbes, neurons and basically all living organisms? 
  
 </p>
 
