@@ -28,8 +28,6 @@ I like to read anything within reach, make comics with ugly illustrations, play 
 </p>
 University of the Philippines Visayas,  <em> Bachelor of Science (Natural Sciences, Biology) </em> 
 
-</p>
-
 <span class="bolded"><strong>2021 to 2024:</strong></span>
 
 <p align="justify">
@@ -42,7 +40,7 @@ University of the Philippines Diliman, Marine Science Institute,  <em> Master of
 
 <p align="justify">
 
-Department of Evolution of Sensory Systems and Physiological Systems,  <em> Doctoral student </em>
+Department of Evolution of Sensory and Physiological Systems, Max Planck Institute for Biological Intelligence  <em> Doctoral student </em>
 
 </p>
  
