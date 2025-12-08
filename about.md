@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-### Call me Aidan (not Ishmael - I would never hunt whales).
+### Call me Aidan (yes, not Ishmael).
 
   ![_config.yml]({{ site.baseurl }}/images/Portrait.jpg){: height="200px" width="auto" align="center" valign="center"} .
 
