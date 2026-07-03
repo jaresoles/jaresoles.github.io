@@ -26,13 +26,13 @@ I like to read anything within reach, make comics with ugly illustrations, play 
 <p align="justify">
 
 </p>
-University of the Philippines Visayas,  <em> Bachelor of Science (Natural Sciences, Biology) </em> 
+University of the Philippines,  <em> Bachelor of Science (Natural Sciences, Biology) </em> 
 
 <span class="bolded"><strong>2021 to 2024:</strong></span>
 
 <p align="justify">
 
-University of the Philippines Diliman, Marine Science Institute,  <em> Master of Science in Marine Science (Marine Biotechnology) </em> 
+University of the Philippines, Marine Science Institute,  <em> Master of Science in Marine Science (Marine Biotechnology) </em> 
 
 </p>
    
