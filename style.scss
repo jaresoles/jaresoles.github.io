@@ -358,9 +358,8 @@ nav {
 .about-photo {
   width: 190px;
   flex-shrink: 0;
-  // Fade the corners into the page instead of a hard rectangular edge
-  -webkit-mask-image: radial-gradient(ellipse at center, black 62%, transparent 100%);
-  mask-image: radial-gradient(ellipse at center, black 62%, transparent 100%);
+  border-radius: 14px;
+  box-shadow: 0 0 0 1px $line;
 
   @include mobile {
     width: 160px;
