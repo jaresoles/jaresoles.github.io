@@ -5,45 +5,26 @@ permalink: /about/
 ---
 ### Call me Aidan (yes, not Ishmael).
 
-  ![_config.yml]({{ site.baseurl }}/images/Portrait.jpg){: height="200px" width="auto" align="center" valign="center"} .
+See: {% if site.posts.first %}[*{{ site.posts.first.title }}*]({{ site.baseurl }}{{ site.posts.first.url }}){% endif %} for my motivations for creating this website.
 
-<p align="justify">
- 
-See: Up and running for my motivations for creating this website. 
+<div class="about-photo-row">
+  <p>I like to read anything within reach, make comics with ugly illustrations, play instruments and games, and go on really long (emphasis on really long) walks.</p>
+  <img src="{{ site.baseurl }}/images/Portrait.jpg" alt="Portrait of Aidan" class="about-photo">
+</div>
 
-</p>
+### Short CV
 
-<p align="justify">
- 
-I like to read anything within reach, make comics with ugly illustrations, play instruments and games, and go on really long (emphasis on really long) walks. 
- 
-</p>
+<dl class="cv">
+  <dt>2015&ndash;2019</dt>
+  <dd>University of the Philippines &mdash; <em>Bachelor of Science (Natural Sciences, Biology)</em></dd>
 
-### Education and Research Experience
-  
-<span class="bolded"><strong>2015 to 2019:</strong></span>
+  <dt>2021&ndash;2024</dt>
+  <dd>University of the Philippines, Marine Science Institute &mdash; <em>Master of Science in Marine Science (Marine Biotechnology)</em></dd>
 
-<p align="justify">
+  <dt>2025&ndash;Present</dt>
+  <dd>Department of Evolution of Sensory and Physiological Systems, Max Planck Institute for Biological Intelligence &mdash; <em>Doctoral student</em></dd>
+</dl>
 
-</p>
-University of the Philippines,  <em> Bachelor of Science (Natural Sciences, Biology) </em> 
-
-<span class="bolded"><strong>2021 to 2024:</strong></span>
-
-<p align="justify">
-
-University of the Philippines, Marine Science Institute,  <em> Master of Science in Marine Science (Marine Biotechnology) </em> 
-
-</p>
-   
-<span class="bolded"><strong>2025 to Present:</strong></span>
-
-<p align="justify">
-
-Department of Evolution of Sensory and Physiological Systems, Max Planck Institute for Biological Intelligence  <em> Doctoral student </em>
-
-</p>
- 
 ### Contact details
 
 [aidan.resoles@bi.mpg.de](mailto:aidan.resoles@bi.mpg.de)

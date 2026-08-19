@@ -19,7 +19,7 @@ html {
 
 body {
   background: $bg;
-  font: 300 16px/1.65 $body-font;
+  font: 400 16px/1.65 $body-font;
   color: $text;
 }
 
@@ -332,6 +332,59 @@ nav {
     font-size: 13px;
     letter-spacing: 0.05em;
   }
+}
+
+//
+// .page (About)
+//
+
+.about-photo-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin: 20px 0;
+
+  @include mobile {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+}
+
+.about-photo-row p {
+  margin: 0;
+  flex: 1 1 auto;
+}
+
+.about-photo {
+  width: 190px;
+  flex-shrink: 0;
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px $line;
+
+  @include mobile {
+    width: 160px;
+  }
+}
+
+.cv {
+  margin: 15px 0;
+}
+
+.cv dt {
+  font-family: $mono-font;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: $muted;
+  margin-top: 18px;
+}
+
+.cv dt:first-child {
+  margin-top: 0;
+}
+
+.cv dd {
+  margin: 4px 0 0;
 }
 
 .wrapper-footer {
