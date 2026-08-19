@@ -4,8 +4,6 @@ title: Contents
 permalink: /contents/
 ---
 
-Every entry on the site, newest first. This page updates itself as new posts and finds are added — nothing to maintain by hand.
-
 ### Posts
 
 <ul class="toc-list">
