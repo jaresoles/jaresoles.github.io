@@ -5,8 +5,6 @@ permalink: /about/
 ---
 ### Call me Aidan (yes, not Ishmael).
 
-See: {% if site.posts.first %}[*{{ site.posts.first.title }}*]({{ site.baseurl }}{{ site.posts.first.url }}){% endif %} for my motivations for creating this website.
-
 <div class="about-photo-row">
   <p>I like to read anything within reach, make comics with ugly illustrations, play instruments and games, and go on really long (emphasis on really long) walks.</p>
   <img src="{{ site.baseurl }}/images/Portrait.jpg" alt="Portrait of Aidan" class="about-photo">

@@ -340,7 +340,7 @@ nav {
 
 .about-photo-row {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 24px;
   margin: 20px 0;
 
@@ -358,8 +358,9 @@ nav {
 .about-photo {
   width: 190px;
   flex-shrink: 0;
-  border-radius: 4px;
-  box-shadow: 0 0 0 1px $line;
+  // Fade the corners into the page instead of a hard rectangular edge
+  -webkit-mask-image: radial-gradient(ellipse at center, black 62%, transparent 100%);
+  mask-image: radial-gradient(ellipse at center, black 62%, transparent 100%);
 
   @include mobile {
     width: 160px;
