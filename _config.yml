@@ -84,3 +84,21 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - CONTENT_GUIDE.md
+
+# "Plant and Animal Life and Random Finds" entries live in _finds/ as
+# their own collection, separate from _posts/, each rendered as its own
+# page under /finds/<name>/.
+collections:
+  finds:
+    output: true
+    permalink: /finds/:name/
+
+# New files in _finds/ don't need "layout: find" in their front matter —
+# it's applied automatically.
+defaults:
+  - scope:
+      path: ""
+      type: "finds"
+    values:
+      layout: "find"

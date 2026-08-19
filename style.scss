@@ -387,6 +387,86 @@ nav {
   margin: 4px 0 0;
 }
 
+//
+// .find (Plant and Animal Life and Random Finds)
+//
+
+.finds-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 28px;
+  margin: 24px 0;
+}
+
+.find-card h3 {
+  margin: 10px 0 2px;
+  font-size: 17px;
+}
+
+.find-card .date {
+  margin-bottom: 6px;
+}
+
+.find-card p {
+  margin: 0;
+  font-size: 14px;
+  color: $muted;
+}
+
+.find-thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 0 0 1px $line;
+}
+
+.find-thumb--empty {
+  background: $bg-raised;
+}
+
+.find-photo {
+  display: block;
+  width: 100%;
+  max-width: 460px;
+  border-radius: 8px;
+  box-shadow: 0 0 0 1px $line;
+  margin: 4px 0 20px;
+}
+
+//
+// Table of contents
+//
+
+.toc-list {
+  list-style: none;
+  margin: 10px 0 34px;
+  padding: 0;
+}
+
+.toc-list li {
+  display: flex;
+  gap: 16px;
+  align-items: baseline;
+  padding: 9px 0;
+  border-bottom: 1px solid $line;
+}
+
+.toc-list li:last-child {
+  border-bottom: none;
+}
+
+.toc-list .date {
+  flex-shrink: 0;
+  width: 84px;
+}
+
+.toc-empty {
+  color: $muted;
+  font-style: italic;
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid $line;
