@@ -1,28 +1,23 @@
 
 //
-// VARIABLES
+// VARIABLES — Signal Trace
 //
 
-// Colors
-$blue: #4183C4;
-$steelblue: #cae1ff;
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+$display-font: 'Instrument Serif', Georgia, serif;
+$body-font: 'IBM Plex Sans', Helvetica, Arial, sans-serif;
+$mono-font: 'IBM Plex Mono', 'Courier New', monospace;
 
-
-// Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
-$open-sans: 'Open Sans', sans-serif;
-
+// Signal Trace palette
+$bg: #0B1E1C;          // deep marine-black ground
+$bg-raised: #102825;   // raised panel / code block background
+$glow: #FF9A63;        // bioluminescent amber accent
+$line: #2A4A45;        // dim trace / rule line
+$text: #DCE7E3;        // pale sea-foam body text
+$text-bright: #F4F1EA; // headings, bright text
+$muted: #7FA79C;       // secondary / meta text
 
 // Mobile breakpoints
 @mixin mobile {
